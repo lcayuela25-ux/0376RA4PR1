@@ -7,7 +7,7 @@ document.querySelector("#titol-principal").style.color = "blue";
 document.querySelector("#paragraf-hola").textContent = "Hola Món";
 
 // 3 Atributs
-document.querySelector("#imatge-canviant").setAttribute("src", "https://via.placeholder.com/150/ff0000");
+document.querySelector("#imatge-canviant").setAttribute("src", "Particularidades-de-los-felinos.webp");
 
 // 4 Esdeveniments
 document.querySelector("#boto-alerta").addEventListener("click", function () {
